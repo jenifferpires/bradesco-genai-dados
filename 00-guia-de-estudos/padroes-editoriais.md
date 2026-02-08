@@ -1,4 +1,4 @@
-# 📘 Padrões Editoriais do Repositório
+# 📘 Padrões Editoriais do Repositório.  
 
 Este documento define os **padrões oficiais de escrita, organização e apresentação de conteúdo** adotados neste repositório.
 
@@ -12,7 +12,7 @@ Este não é apenas um repositório de estudos, mas um **guia técnico de refer�
 
 ---
 
-## 1. Princípios Fundamentais
+## 1. Princípios Fundamentais:  
 
 Todo conteúdo criado neste repositório deve obedecer aos seguintes princípios.
 
@@ -50,7 +50,7 @@ Não assumir conhecimento prévio do leitor.
 
 ---
 
-## 2. Linguagem e Tom
+## 2. Linguagem e Tom:  
 
 ### 2.1 Idioma
 - Todo o conteúdo deve ser escrito em **português**.
@@ -70,7 +70,7 @@ Não assumir conhecimento prévio do leitor.
 
 ---
 
-## 3. Pontuação e Estrutura de Frases
+## 3. Pontuação e Estrutura de Frases:  
 
 A pontuação correta é obrigatória e faz parte da qualidade técnica do material.
 
@@ -93,7 +93,7 @@ A pontuação correta é obrigatória e faz parte da qualidade técnica do mater
 
 ---
 
-## 4. Estrutura dos Arquivos Markdown
+## 4. Estrutura dos Arquivos Markdown:  
 
 Todo arquivo `.md` deve seguir uma estrutura lógica e previsível.
 
@@ -114,7 +114,7 @@ Nem todas as seções são obrigatórias, mas a ausência deve ser justificada p
 
 ---
 
-## 5. Uso de Títulos e Hierarquia
+## 5. Uso de Títulos e Hierarquia:  
 
 ### 5.1 Títulos
 - Usar `#` apenas para o título principal do arquivo.
@@ -129,7 +129,7 @@ Nem todas as seções são obrigatórias, mas a ausência deve ser justificada p
 
 ---
 
-## 6. Ênfase, Alertas e Destaques
+## 6. Ênfase, Alertas e Destaques:  
 
 ### 6.1 Ênfase
 - Utilizar **negrito** para destacar conceitos-chave.
@@ -151,7 +151,7 @@ Exemplos:
 
 ---
 
-## 7. Blocos de Código
+## 7. Blocos de Código:  
 
 ### 7.1 Regras
 - Todo bloco de código deve estar corretamente formatado.
@@ -166,7 +166,7 @@ Evitar exemplos irreais ou excessivamente simplificados.
 
 ---
 
-## 8. Listas e Tabelas
+## 8. Listas e Tabelas:  
 
 ### 8.1 Listas
 - Sempre introduzir listas com uma frase explicativa.
@@ -182,7 +182,7 @@ Exemplo:
 
 ---
 
-## 9. Referências e Fontes
+## 9. Referências e Fontes:  
 
 - Sempre que possível, incluir referências.
 - Priorizar documentação oficial.
@@ -193,7 +193,7 @@ Exemplo:
 
 ---
 
-## 10. Padronização entre Arquivos
+## 10. Padronização entre Arquivos:  
 
 - A terminologia deve ser consistente em todo o repositório.
 - Se um conceito foi definido em um módulo, manter a mesma definição nos demais.
@@ -201,7 +201,7 @@ Exemplo:
 
 ---
 
-## 11. Responsabilidade do Conteúdo
+## 11. Responsabilidade do Conteúdo:  
 
 Todo conteúdo inserido neste repositório deve:
 - ser revisado antes do commit;
